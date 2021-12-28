@@ -7,6 +7,7 @@
 
 ## Link:-http://gg.gg/covirus 
 
+> This game was made using Unity Covid Kit we just build our assets to enhance UX.
 
 Team members:-
 	1.Shivansh Ahuja - Programmer
