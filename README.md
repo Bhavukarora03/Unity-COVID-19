@@ -13,4 +13,8 @@ Team members:-
 	3.Harsh Pal - 3D Artist
 	4.Bhavuk Arora - UI/UX Designer
 
+<img src="https://i.imgur.com/q40cs3O.png"/>
+<img src="https://i.imgur.com/TfeKwbC.png"/>
+<img src="https://i.imgur.com/AGavHAS.png"/>
+<img src="https://i.imgur.com/TfeKwbC.png"/>
 
