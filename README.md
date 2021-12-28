@@ -10,13 +10,15 @@
 > This game was made using Unity Covid Kit we just build our assets to enhance UX.
 
 Team members:-
-	1.Shivansh Ahuja - Programmer
-	2.Devesh Tibrewala - Level Designer
-	3.Harsh Pal - 3D Artist
-	4.Bhavuk Arora - UI/UX Designer
+
+	* Bhavuk Arora - UI/UX Designer
+	* Shivansh Ahuja - Programmer
+	* Devesh Tibrewala - Level Designer
+	* Harsh Pal - 3D Artist
+	
 
 <img src="https://i.imgur.com/q40cs3O.png"/> <img src="https://i.imgur.com/TfeKwbC.png"/>
 
-<img src="https://i.imgur.com/AGavHAS.png"/>  <img src="https://i.imgur.com/rSikHvi.png"/>
+<img src="https://i.imgur.com/AGavHAS.png"/> <img src="https://i.imgur.com/rSikHvi.png"/>
 
 
